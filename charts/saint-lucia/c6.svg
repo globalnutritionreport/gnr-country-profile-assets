@@ -109,7 +109,7 @@
   <path d="M 467 98.105469 L 726 98.105469 L 726 103 L 467 103 Z M 467 98.105469 "/>
 </clipPath>
 </defs>
-<g id="surface67905">
+<g id="surface67906">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(69.803922%,84.705882%,84.313725%);fill-opacity:1;" d="M 99.984375 202.105469 L 357.566406 202.105469 L 357.566406 660.664062 L 99.984375 660.664062 Z M 99.984375 202.105469 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,78.823529%,47.843137%);fill-opacity:1;" d="M 99.984375 176.75 L 357.566406 176.75 L 357.566406 202.105469 L 99.984375 202.105469 Z M 99.984375 176.75 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,56.470588%,0%);fill-opacity:1;" d="M 99.984375 159.003906 L 357.566406 159.003906 L 357.566406 176.75 L 99.984375 176.75 Z M 99.984375 159.003906 "/>
@@ -122,11 +122,11 @@
 <g clip-path="url(#clip2)" clip-rule="nonzero">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.058824%,36.470588%,3.529412%);fill-opacity:1;" d="M 467.957031 98.105469 L 725.539062 98.105469 L 725.539062 102.589844 L 467.957031 102.589844 Z M 467.957031 98.105469 "/>
 </g>
-<g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
+<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="210.855469" y="138.820312"/>
   <use xlink:href="#glyph0-1" x="228.773247" y="138.820312"/>
 </g>
-<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+<g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="210.855469" y="441.648438"/>
   <use xlink:href="#glyph0-3" x="228.773247" y="441.648438"/>
 </g>
@@ -134,7 +134,7 @@
   <use xlink:href="#glyph0-1" x="578.828125" y="143.429688"/>
   <use xlink:href="#glyph0-1" x="596.745903" y="143.429688"/>
 </g>
-<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+<g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="578.828125" y="422.410156"/>
   <use xlink:href="#glyph0-2" x="596.745903" y="422.410156"/>
 </g>
