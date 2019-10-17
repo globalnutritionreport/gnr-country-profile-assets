@@ -121,7 +121,7 @@
 </symbol>
 </g>
 </defs>
-<g id="surface95091">
+<g id="surface95871">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(98.823529%,78.823529%,47.843137%);stroke-opacity:1;stroke-miterlimit:10;" d="M 211.460938 416.742188 L 387.132812 564.980469 L 431.050781 479.253906 L 562.804688 429.699219 L 650.640625 295.699219 L 782.394531 220.925781 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(87.058824%,36.470588%,3.529412%);stroke-opacity:1;stroke-miterlimit:10;" d="M 211.460938 574.023438 L 387.132812 634.921875 L 431.050781 645.164062 L 562.804688 595.480469 L 650.640625 614.921875 L 782.394531 431.769531 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 535.722656 L 211.460938 531.085938 L 387.132812 615.78125 L 431.050781 594.21875 L 562.804688 550.835938 L 650.640625 504.261719 L 782.394531 373.363281 "/>
@@ -132,12 +132,19 @@
   <use xlink:href="#glyph0-3" x="81.270785" y="526.707031"/>
   <use xlink:href="#glyph0-4" x="87.39126" y="526.707031"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 366.097656 L 782.394531 373.363281 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.398438 366.097656 L 782.394531 373.363281 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-5" x="759.054688" y="364.347656"/>
-  <use xlink:href="#glyph0-6" x="772.286088" y="364.347656"/>
-  <use xlink:href="#glyph0-3" x="785.949222" y="364.347656"/>
-  <use xlink:href="#glyph0-6" x="792.069697" y="364.347656"/>
+  <use xlink:href="#glyph0-5" x="759.058594" y="364.347656"/>
+  <use xlink:href="#glyph0-6" x="772.289994" y="364.347656"/>
+  <use xlink:href="#glyph0-3" x="785.953129" y="364.347656"/>
+  <use xlink:href="#glyph0-6" x="792.073604" y="364.347656"/>
+</g>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 211.460938 409.476562 L 211.460938 416.742188 "/>
+<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+  <use xlink:href="#glyph0-5" x="190.40625" y="407.726562"/>
+  <use xlink:href="#glyph0-1" x="203.63765" y="407.726562"/>
+  <use xlink:href="#glyph0-3" x="213.161211" y="407.726562"/>
+  <use xlink:href="#glyph0-5" x="219.281686" y="407.726562"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 213.660156 L 782.394531 220.925781 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
@@ -145,6 +152,13 @@
   <use xlink:href="#glyph0-7" x="770.889697" y="211.910156"/>
   <use xlink:href="#glyph0-3" x="786.838487" y="211.910156"/>
   <use xlink:href="#glyph0-8" x="792.958962" y="211.910156"/>
+</g>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 211.460938 566.757812 L 211.460938 574.023438 "/>
+<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+  <use xlink:href="#glyph0-1" x="189.734375" y="565.007812"/>
+  <use xlink:href="#glyph0-6" x="199.257936" y="565.007812"/>
+  <use xlink:href="#glyph0-3" x="212.92107" y="565.007812"/>
+  <use xlink:href="#glyph0-2" x="219.041545" y="565.007812"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 424.503906 L 782.394531 431.769531 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">

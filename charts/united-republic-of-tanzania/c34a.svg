@@ -256,7 +256,7 @@
   <path d="M 387.511719 5.328125 L 1229 5.328125 L 1229 713 L 387.511719 713 Z M 387.511719 5.328125 "/>
 </clipPath>
 </defs>
-<g id="surface134897">
+<g id="surface136182">
 <path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 0 L 1234.285156 0 L 1234.285156 720 L 0 720 Z M 0 0 "/>
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 387.511719 5.328125 L 1228.957031 5.328125 L 1228.957031 712.011719 L 387.511719 712.011719 Z M 387.511719 5.328125 "/>
@@ -360,9 +360,9 @@
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1190.710938 329.894531 L 1190.710938 315.578125 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph1-1" x="1174.484375" y="347.714844"/>
-  <use xlink:href="#glyph1-2" x="1182.970595" y="347.714844"/>
-  <use xlink:href="#glyph1-3" x="1194.760784" y="347.714844"/>
+  <use xlink:href="#glyph1-1" x="1174.484375" y="347.710938"/>
+  <use xlink:href="#glyph1-2" x="1182.970595" y="347.710938"/>
+  <use xlink:href="#glyph1-3" x="1194.760784" y="347.710938"/>
 </g>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
   <use xlink:href="#glyph2-1" x="433.289062" y="66.050781"/>

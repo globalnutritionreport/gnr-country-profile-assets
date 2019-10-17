@@ -82,16 +82,16 @@
 </symbol>
 </g>
 </defs>
-<g id="surface123748">
+<g id="surface124872">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(98.823529%,78.823529%,47.843137%);stroke-opacity:1;stroke-miterlimit:10;" d="M 518.886719 196.109375 L 782.394531 183.429688 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(87.058824%,36.470588%,3.529412%);stroke-opacity:1;stroke-miterlimit:10;" d="M 518.886719 359.195312 L 782.394531 521.4375 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 192.480469 L 518.886719 278.226562 L 782.394531 350.972656 "/>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 185.21875 L 79.707031 192.480469 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 185.214844 L 79.707031 192.480469 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-1" x="58.261719" y="183.46875"/>
-  <use xlink:href="#glyph0-2" x="67.785279" y="183.46875"/>
-  <use xlink:href="#glyph0-3" x="82.489657" y="183.46875"/>
-  <use xlink:href="#glyph0-4" x="88.610132" y="183.46875"/>
+  <use xlink:href="#glyph0-1" x="58.261719" y="183.464844"/>
+  <use xlink:href="#glyph0-2" x="67.785279" y="183.464844"/>
+  <use xlink:href="#glyph0-3" x="82.489657" y="183.464844"/>
+  <use xlink:href="#glyph0-4" x="88.610132" y="183.464844"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 343.707031 L 782.394531 350.972656 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
@@ -100,12 +100,26 @@
   <use xlink:href="#glyph0-3" x="783.018483" y="341.957031"/>
   <use xlink:href="#glyph0-2" x="789.138958" y="341.957031"/>
 </g>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 518.886719 188.84375 L 518.886719 196.109375 "/>
+<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+  <use xlink:href="#glyph0-1" x="497.441406" y="187.09375"/>
+  <use xlink:href="#glyph0-2" x="506.964967" y="187.09375"/>
+  <use xlink:href="#glyph0-3" x="521.669344" y="187.09375"/>
+  <use xlink:href="#glyph0-4" x="527.789819" y="187.09375"/>
+</g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 176.164062 L 782.394531 183.429688 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="759.917969" y="174.414062"/>
   <use xlink:href="#glyph0-2" x="769.441529" y="174.414062"/>
   <use xlink:href="#glyph0-3" x="784.145907" y="174.414062"/>
   <use xlink:href="#glyph0-5" x="790.266382" y="174.414062"/>
+</g>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 518.886719 351.929688 L 518.886719 359.195312 "/>
+<g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
+  <use xlink:href="#glyph0-1" x="497.492188" y="350.179688"/>
+  <use xlink:href="#glyph0-4" x="507.015748" y="350.179688"/>
+  <use xlink:href="#glyph0-3" x="519.561452" y="350.179688"/>
+  <use xlink:href="#glyph0-5" x="525.681927" y="350.179688"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 514.171875 L 782.394531 521.4375 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
