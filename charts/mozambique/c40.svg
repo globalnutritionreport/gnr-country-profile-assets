@@ -121,7 +121,7 @@
   <path d="M 44.574219 157.921875 L 818.53125 157.921875 L 818.53125 666.738281 L 44.574219 666.738281 Z M 44.574219 157.921875 "/>
 </clipPath>
 </defs>
-<g id="surface33332">
+<g id="surface14960">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(98.823529%,78.823529%,47.843137%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 623.101563 L 431.050781 452.851563 L 641.859375 238.976563 L 782.394531 504.078125 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(87.058824%,36.470588%,3.529412%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 513.730469 L 431.050781 382.085938 L 641.859375 386.316406 L 782.394531 275.351563 "/>
@@ -138,12 +138,12 @@
   <use xlink:href="#glyph0-4" x="770.421875" y="319.117188"/>
   <use xlink:href="#glyph0-5" x="784.846895" y="319.117188"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 615.832031 L 79.707031 623.101563 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 615.835938 L 79.707031 623.101563 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="56.203125" y="614.082031"/>
-  <use xlink:href="#glyph0-4" x="69.434525" y="614.082031"/>
-  <use xlink:href="#glyph0-2" x="83.859545" y="614.082031"/>
-  <use xlink:href="#glyph0-0" x="89.98002" y="614.082031"/>
+  <use xlink:href="#glyph0-0" x="56.203125" y="614.085938"/>
+  <use xlink:href="#glyph0-4" x="69.434525" y="614.085938"/>
+  <use xlink:href="#glyph0-2" x="83.859545" y="614.085938"/>
+  <use xlink:href="#glyph0-0" x="89.98002" y="614.085938"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 496.8125 L 782.394531 504.078125 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">

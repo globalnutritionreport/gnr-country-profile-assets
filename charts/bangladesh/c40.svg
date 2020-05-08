@@ -112,22 +112,22 @@
   <path d="M 45.511719 157.921875 L 818.53125 157.921875 L 818.53125 665.800781 L 45.511719 665.800781 Z M 45.511719 157.921875 "/>
 </clipPath>
 </defs>
-<g id="surface6497">
+<g id="surface2942">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(98.823529%,78.823529%,47.843137%);stroke-opacity:1;stroke-miterlimit:10;" d="M 220.96875 619.140625 L 291.152344 563.644531 L 571.886719 241.363281 L 642.070313 394.695313 L 782.4375 372.949219 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(87.058824%,36.470588%,3.529412%);stroke-opacity:1;stroke-miterlimit:10;" d="M 220.96875 588.296875 L 291.152344 506.40625 L 571.886719 243.359375 L 642.070313 338.550781 L 782.4375 351.71875 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 80.601563 529.953125 L 220.96875 591.796875 L 291.152344 517.8125 L 571.886719 242.898438 L 642.070313 349.320313 L 782.4375 357.242188 "/>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 80.605469 522.683594 L 80.601563 529.953125 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 80.601563 522.6875 L 80.601563 529.953125 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="66.777344" y="520.933594"/>
-  <use xlink:href="#glyph0-1" x="81.202363" y="520.933594"/>
+  <use xlink:href="#glyph0-0" x="66.773438" y="520.9375"/>
+  <use xlink:href="#glyph0-1" x="81.198457" y="520.9375"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 789.691406 374.667969 L 782.4375 357.242188 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 789.6875 374.621094 L 782.4375 357.242188 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-2" x="765.9375" y="394.449219"/>
-  <use xlink:href="#glyph0-2" x="780.083162" y="394.449219"/>
-  <use xlink:href="#glyph0-3" x="794.228824" y="394.449219"/>
-  <use xlink:href="#glyph0-4" x="800.349299" y="394.449219"/>
+  <use xlink:href="#glyph0-2" x="765.9375" y="394.402344"/>
+  <use xlink:href="#glyph0-2" x="780.083162" y="394.402344"/>
+  <use xlink:href="#glyph0-3" x="794.228824" y="394.402344"/>
+  <use xlink:href="#glyph0-4" x="800.349299" y="394.402344"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 220.96875 611.875 L 220.96875 619.140625 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
@@ -136,12 +136,12 @@
   <use xlink:href="#glyph0-3" x="227.050984" y="610.125"/>
   <use xlink:href="#glyph0-5" x="233.171459" y="610.125"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 746.902344 399.742188 L 782.4375 372.949219 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 747.9375 399.707031 L 782.4375 372.949219 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-2" x="719.183594" y="419.523438"/>
-  <use xlink:href="#glyph0-0" x="733.329256" y="419.523438"/>
-  <use xlink:href="#glyph0-3" x="747.754275" y="419.523438"/>
-  <use xlink:href="#glyph0-5" x="753.87475" y="419.523438"/>
+  <use xlink:href="#glyph0-2" x="720.285156" y="419.488281"/>
+  <use xlink:href="#glyph0-0" x="734.430818" y="419.488281"/>
+  <use xlink:href="#glyph0-3" x="748.855838" y="419.488281"/>
+  <use xlink:href="#glyph0-5" x="754.976313" y="419.488281"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 220.96875 581.03125 L 220.96875 588.296875 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
@@ -150,12 +150,12 @@
   <use xlink:href="#glyph0-3" x="223.939307" y="579.28125"/>
   <use xlink:href="#glyph0-2" x="230.059782" y="579.28125"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.4375 340.84375 L 782.4375 351.71875 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.433594 340.515625 L 782.4375 351.71875 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-2" x="758.957031" y="339.09375"/>
-  <use xlink:href="#glyph0-2" x="773.102693" y="339.09375"/>
-  <use xlink:href="#glyph0-3" x="787.248355" y="339.09375"/>
-  <use xlink:href="#glyph0-6" x="793.36883" y="339.09375"/>
+  <use xlink:href="#glyph0-2" x="758.953125" y="338.765625"/>
+  <use xlink:href="#glyph0-2" x="773.098787" y="338.765625"/>
+  <use xlink:href="#glyph0-3" x="787.244449" y="338.765625"/>
+  <use xlink:href="#glyph0-6" x="793.364924" y="338.765625"/>
 </g>
 </g>
 <path style="fill:none;stroke-width:3.042864;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 45.511719 664.804688 L 45.511719 157.921875 "/>

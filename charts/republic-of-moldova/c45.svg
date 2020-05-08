@@ -79,7 +79,7 @@
   <path d="M 44.574219 5.328125 L 818.53125 5.328125 L 818.53125 666.742188 L 44.574219 666.742188 Z M 44.574219 5.328125 "/>
 </clipPath>
 </defs>
-<g id="surface29906">
+<g id="surface13304">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(57.647059%,79.215686%,78.823529%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 613.277344 L 782.394531 239.722656 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 345.539063 L 782.394531 198.292969 "/>
@@ -90,12 +90,12 @@
   <use xlink:href="#glyph0-2" x="84.533965" y="336.527344"/>
   <use xlink:href="#glyph0-3" x="90.65444" y="336.527344"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.398438 191.027344 L 782.394531 198.292969 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 191.03125 L 782.394531 198.292969 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="757.613281" y="189.277344"/>
-  <use xlink:href="#glyph0-3" x="772.038301" y="189.277344"/>
-  <use xlink:href="#glyph0-2" x="786.641094" y="189.277344"/>
-  <use xlink:href="#glyph0-0" x="792.761569" y="189.277344"/>
+  <use xlink:href="#glyph0-0" x="757.609375" y="189.28125"/>
+  <use xlink:href="#glyph0-3" x="772.034395" y="189.28125"/>
+  <use xlink:href="#glyph0-2" x="786.637187" y="189.28125"/>
+  <use xlink:href="#glyph0-0" x="792.757662" y="189.28125"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 101.023438 L 79.707031 108.289063 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">

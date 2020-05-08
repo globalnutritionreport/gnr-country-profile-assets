@@ -160,13 +160,13 @@
   <path d="M 54.625 118.421875 L 1188.875 118.421875 L 1188.875 671.164063 L 54.625 671.164063 Z M 54.625 118.421875 "/>
 </clipPath>
 </defs>
-<g id="surface12203">
+<g id="surface5363">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
-<path style="fill:none;stroke-width:0.972222;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 670.164063 L 1187.871094 670.164063 "/>
-<path style="fill:none;stroke-width:0.972222;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 534.78125 L 1187.871094 534.78125 "/>
-<path style="fill:none;stroke-width:0.972222;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 399.398438 L 1187.871094 399.398438 "/>
-<path style="fill:none;stroke-width:0.972222;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 264.015625 L 1187.871094 264.015625 "/>
-<path style="fill:none;stroke-width:0.972222;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 128.632813 L 1187.871094 128.632813 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 670.164063 L 1187.871094 670.164063 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 534.78125 L 1187.871094 534.78125 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 399.398438 L 1187.871094 399.398438 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 264.015625 L 1187.871094 264.015625 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(62.745098%,67.843137%,73.333333%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 128.632813 L 1187.871094 128.632813 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,78.823529%,47.843137%);fill-opacity:1;" d="M 106.132813 630.980469 L 220.605469 669.6875 L 335.074219 629.371094 L 449.542969 629.613281 L 564.011719 268.894531 L 678.484375 442.089844 L 792.953125 642.839844 L 907.421875 614.605469 L 1021.890625 655.113281 L 1136.363281 609.855469 L 1136.363281 670.164063 L 106.132813 670.164063 Z M 106.132813 630.980469 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(95.294118%,56.470588%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 106.132813 650.175781 L 220.605469 669.796875 L 335.074219 663.179688 L 449.542969 641.398438 L 564.011719 168.578125 L 678.484375 358.375 L 792.953125 617.582031 L 907.421875 579.945313 L 1021.890625 643.285156 L 1136.363281 578.972656 "/>
 </g>
@@ -191,13 +191,13 @@
   <use xlink:href="#glyph0-0" x="1192.667969" y="678.96875"/>
 </g>
 <g style="fill:rgb(62.745098%,67.843137%,73.333333%);fill-opacity:1;">
-  <use xlink:href="#glyph0-4" x="1192.667969" y="531.101563"/>
+  <use xlink:href="#glyph0-4" x="1192.667969" y="530.953125"/>
 </g>
 <g style="fill:rgb(62.745098%,67.843137%,73.333333%);fill-opacity:1;">
-  <use xlink:href="#glyph0-1" x="1192.667969" y="382.683594"/>
+  <use xlink:href="#glyph0-1" x="1192.667969" y="382.941406"/>
 </g>
 <g style="fill:rgb(62.745098%,67.843137%,73.333333%);fill-opacity:1;">
-  <use xlink:href="#glyph0-5" x="1192.667969" y="234.816406"/>
+  <use xlink:href="#glyph0-5" x="1192.667969" y="234.925781"/>
 </g>
 <path style="fill:none;stroke-width:3.042864;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 54.625 670.164063 L 1187.871094 670.164063 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">

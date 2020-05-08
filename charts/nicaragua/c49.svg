@@ -85,7 +85,7 @@
   <path d="M 44.574219 5.328125 L 818.53125 5.328125 L 818.53125 666.742188 L 44.574219 666.742188 Z M 44.574219 5.328125 "/>
 </clipPath>
 </defs>
-<g id="surface35861">
+<g id="surface16193">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 307.179688 L 431.050781 210.332031 L 782.394531 165.835938 "/>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 299.914063 L 79.707031 307.179688 "/>
@@ -95,12 +95,12 @@
   <use xlink:href="#glyph0-2" x="83.822618" y="298.164063"/>
   <use xlink:href="#glyph0-3" x="89.943093" y="298.164063"/>
 </g>
-<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 158.574219 L 782.394531 165.835938 "/>
+<path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 782.394531 158.570313 L 782.394531 165.835938 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="757.214844" y="156.824219"/>
-  <use xlink:href="#glyph0-4" x="772.046202" y="156.824219"/>
-  <use xlink:href="#glyph0-2" x="786.750579" y="156.824219"/>
-  <use xlink:href="#glyph0-4" x="792.871054" y="156.824219"/>
+  <use xlink:href="#glyph0-0" x="757.214844" y="156.820313"/>
+  <use xlink:href="#glyph0-4" x="772.046202" y="156.820313"/>
+  <use xlink:href="#glyph0-2" x="786.750579" y="156.820313"/>
+  <use xlink:href="#glyph0-4" x="792.871054" y="156.820313"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 154.027344 L 79.707031 161.292969 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">

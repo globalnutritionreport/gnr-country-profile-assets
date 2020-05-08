@@ -76,7 +76,7 @@
   <path d="M 44.574219 5.328125 L 818.53125 5.328125 L 818.53125 666.742188 L 44.574219 666.742188 Z M 44.574219 5.328125 "/>
 </clipPath>
 </defs>
-<g id="surface52187">
+<g id="surface23405">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(81.176471%,85.098039%,89.803922%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 147.386719 L 782.394531 565.488281 "/>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 135.21875 L 79.707031 147.386719 "/>
@@ -94,14 +94,14 @@
   <use xlink:href="#glyph0-5" x="792.730308" y="556.472656"/>
 </g>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="58.277344" y="184.222656"/>
-  <use xlink:href="#glyph0-1" x="70.823047" y="184.222656"/>
-  <use xlink:href="#glyph0-2" x="85.527425" y="184.222656"/>
-  <use xlink:href="#glyph0-6" x="91.6479" y="184.222656"/>
+  <use xlink:href="#glyph0-0" x="58.261719" y="184.222656"/>
+  <use xlink:href="#glyph0-1" x="70.807422" y="184.222656"/>
+  <use xlink:href="#glyph0-2" x="85.5118" y="184.222656"/>
+  <use xlink:href="#glyph0-6" x="91.632275" y="184.222656"/>
 </g>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-0" x="66.015625" y="210.238281"/>
-  <use xlink:href="#glyph0-4" x="78.561329" y="210.238281"/>
+  <use xlink:href="#glyph0-0" x="66.019531" y="210.238281"/>
+  <use xlink:href="#glyph0-4" x="78.565235" y="210.238281"/>
 </g>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.058824%,36.470588%,3.529412%);fill-opacity:1;" d="M 75.109375 158.027344 L 84.300781 158.027344 L 84.300781 167.21875 L 75.109375 167.21875 Z M 75.109375 158.027344 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(69.803922%,84.705882%,84.313725%);fill-opacity:1;" d="M 75.109375 211.914063 L 84.300781 211.914063 L 84.300781 221.105469 L 75.109375 221.105469 Z M 75.109375 211.914063 "/>

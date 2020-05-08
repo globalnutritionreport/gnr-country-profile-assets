@@ -124,7 +124,7 @@
   <path d="M 44.574219 157.921875 L 818.53125 157.921875 L 818.53125 666.738281 L 44.574219 666.738281 Z M 44.574219 157.921875 "/>
 </clipPath>
 </defs>
-<g id="surface47279">
+<g id="surface21251">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(87.058824%,36.470588%,3.529412%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 435.3125 L 286.378906 329.601563 L 575.722656 207.179688 L 782.394531 262.15625 "/>
 <path style="fill:none;stroke-width:5.53248;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(98.823529%,78.823529%,47.843137%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 619.171875 L 286.378906 487.761719 L 575.722656 473.492188 L 782.394531 402.011719 "/>
@@ -138,10 +138,10 @@
   <use xlink:href="#glyph0-3" x="88.127649" y="578.304688"/>
 </g>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
-  <use xlink:href="#glyph0-4" x="758.140625" y="437.273438"/>
-  <use xlink:href="#glyph0-5" x="771.80376" y="437.273438"/>
-  <use xlink:href="#glyph0-2" x="785.949422" y="437.273438"/>
-  <use xlink:href="#glyph0-6" x="792.069897" y="437.273438"/>
+  <use xlink:href="#glyph0-4" x="758.128906" y="437.273438"/>
+  <use xlink:href="#glyph0-5" x="771.792041" y="437.273438"/>
+  <use xlink:href="#glyph0-2" x="785.937703" y="437.273438"/>
+  <use xlink:href="#glyph0-6" x="792.058178" y="437.273438"/>
 </g>
 <path style="fill:none;stroke-width:1.38312;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.843137%,36.078431%,42.745098%);stroke-opacity:1;stroke-miterlimit:10;" d="M 79.707031 428.046875 L 79.707031 435.3125 "/>
 <g style="fill:rgb(27.843137%,36.078431%,42.745098%);fill-opacity:1;">
